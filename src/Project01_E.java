@@ -32,7 +32,7 @@ public class Project01_E {
 		int responseCode = con.getResponseCode();
 		BufferedReader br;
 		if(responseCode==200) { // 정상 호출
-			InputStream is = con.getInputStream();
+			InputStream is = con.getInputStream(); 
 			int read = 0;
 			byte[] bytes = new byte[1024];
 			// 랜덤한 이름으로 파일 생성

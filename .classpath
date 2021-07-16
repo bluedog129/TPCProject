@@ -8,5 +8,6 @@
 	</classpathentry>
 	<classpathentry kind="lib" path="C:/Users/82103/eclipse-workspace/JavaTPCProject/lib/json-20180813.jar"/>
 	<classpathentry kind="lib" path="C:/Users/82103/eclipse-workspace/JavaTPCProject/lib/gson-2.8.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/82103/eclipse-workspace/JavaTPCProject/lib/jsoup-1.13.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
